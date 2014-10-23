@@ -95,7 +95,7 @@
 		BCF66F7219563563004691FD /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Character.h; path = Source/Character.h; sourceTree = "<group>"; };
 		BCF66F7319563563004691FD /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Character.m; path = Source/Character.m; sourceTree = "<group>"; };
 		BCF66F7419563563004691FD /* GamePlayScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GamePlayScene.h; path = Source/GamePlayScene.h; sourceTree = "<group>"; };
-		BCF66F7519563563004691FD /* GamePlayScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GamePlayScene.m; path = Source/GamePlayScene.m; sourceTree = "<group>"; };
+		BCF66F7519563563004691FD /* GamePlayScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; name = GamePlayScene.m; path = Source/GamePlayScene.m; sourceTree = "<group>"; };
 		BCF66F7619563563004691FD /* Goal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Goal.h; path = Source/Goal.h; sourceTree = "<group>"; };
 		BCF66F7719563563004691FD /* Goal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Goal.m; path = Source/Goal.m; sourceTree = "<group>"; };
 		BCF66F7819563563004691FD /* MainScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainScene.h; path = Source/MainScene.h; sourceTree = "<group>"; };
@@ -271,7 +271,7 @@
 				ORGANIZATIONNAME = Apportable;
 				TargetAttributes = {
 					B77F1B2D17B978D7009739AE = {
-						DevelopmentTeam = SBVP8ED765;
+						DevelopmentTeam = UFUPL9NWHY;
 						SystemCapabilities = {
 							com.apple.GameCenter = {
 								enabled = 0;
